@@ -251,6 +251,7 @@ Requirement Analysis is a structured process that involves several key activitie
 ### Example: Acceptance Criteria for Checkout Feature in Booking Management System
 **Feature: Checkout** :
 - Description : This feature allows users to review their booking details, select a payment method, and confirm their booking.
+  
 **Acceptance Criteria** :
 1. User can review booking details:
 - The user interface should display the selected hotel, room type, dates, and total cost of the booking.
