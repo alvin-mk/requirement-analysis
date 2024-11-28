@@ -212,3 +212,18 @@ Requirement Analysis is a structured process that involves several key activitie
 - Verify that the documented requirements accurately reflect the stakeholders' needs.
 - Ensure stakeholders are involved in validation to confirm the requirements are clear and meet their expectations.
 - This step helps to identify and resolve any issues early in the project lifecycle, minimizing risks during the development and testing phases.
+
+- 
+## Types of Requirements
+### Functional Requirements for a booking management project
+- Users should be able to search for hotels based on various criteria like location, date, price, and amenities
+- Users should be able to view detailed information about each hotel, including photos, descriptions, and reviews
+- Users should be able to book a hotel room and receive confirmation.
+- The system should integrate with a payment gateway to facilitate secure online transactions.
+- The system should allow users to cancel or modify their bookings.
+### Non-functional Requirements for the booking management project
+- The system should respond to user queries quickly (e.g., search results should be displayed within seconds).
+- The system should be secure and protect user data from unauthorized access.
+- The system should be user-friendly and easy to navigate for both customers and hotel administrators.
+- The system should be scalable to accommodate a growing number of users and bookings
+- The system should be available 24/7 with minimum downtime
