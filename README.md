@@ -230,3 +230,11 @@ Requirement Analysis is a structured process that involves several key activitie
 
 
 ## Use Case Diagrams
+* Use Case Diagrams are visual representations of the interactions between actors (users or external systems) and the system being developed. They show the functionalities 
+  (use cases) that the system provides for each actor. Use Case Diagrams are beneficial for:
+
+- Identifying and understanding system functionalities.
+- Visualizing interactions between users and the system.
+- Improving communication between developers and stakeholders.
+
+### Use Case Diagrams
