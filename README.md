@@ -188,3 +188,27 @@ Think of Requirement Analysis like an architect's blueprint - meticulously plann
 ### Conclusion
 
 Requirement Analysis transforms abstract software visions into clear, actionable plans that align technology with business objectives, making it an indispensable investment in project success.
+
+
+## Key Activities in Requirement Analysis
+Requirement Analysis is a structured process that involves several key activities to ensure that the software being developed meets the needs of stakeholders and adheres to business goals
+### Requirement Gathering
+- This activity focuses on collecting initial project needs from all relevant stakeholders, including business owners, users, and technical teams.
+- Methods such as surveys, interviews, and brainstorming sessions are used to gather requirements.
+- It helps in understanding the business context, goals, and any specific needs or challenges that the software must address.
+### Requirement Elicitation
+ - Requirement Elicitation involves actively engaging stakeholders to refine, clarify, and prioritize the requirements.
+ - Techniques such as interviews, workshops, focus groups, and use case analysis are commonly employed.
+ - It aims to uncover implicit requirements and fully understand stakeholders' expectations.
+### Requirement Documentation
+- Once the requirements are gathered and elicited, they must be documented clearly and concisely.
+- This documentation typically includes detailed descriptions of functional and non-functional requirements, user stories, and system constraints.
+- Well-structured documentation is the reference point throughout the project, ensuring that all stakeholders are aligned.
+### Requirement Analysis and Modeling
+- In this phase, the collected and documented requirements are analyzed to identify inconsistencies, ambiguities, and gaps.
+- Modeling techniques like use case diagrams, flowcharts, and data flow diagrams are used to visualize the requirements and system interactions.
+- This helps in understanding the system’s behavior, interactions, and data flow, and is essential for creating a functional design.
+### Requirement Validation 
+- Verify that the documented requirements accurately reflect the stakeholders' needs.
+- Ensure stakeholders are involved in validation to confirm the requirements are clear and meet their expectations.
+- This step helps to identify and resolve any issues early in the project lifecycle, minimizing risks during the development and testing phases.
