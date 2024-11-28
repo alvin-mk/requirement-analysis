@@ -246,4 +246,7 @@ Requirement Analysis is a structured process that involves several key activitie
 - Acceptance Criteria are specific conditions that a feature or functionality must meet to be considered complete and successful.They act as a bridge between the development team and stakeholders, ensuring everyone is aligned on what the final product should achieve.
 ### Importance of Acceptance Criteria in Requirement Analysis
 **Clarity and Conciseness** : Acceptance Criteria translate high-level requirements into clear, testable statements.This eliminates ambiguity and ensures the development team understands the desired outcome
-*Verifiable Conditions*: Each criterion should be defined in a way that allows for verification through testing. This helps confirm that the implemented functionality meets the user's needs.
+**Verifiable Conditions**: Each criterion should be defined in a way that allows for verification through testing. This helps confirm that the implemented functionality meets the user's needs.
+**Improved Communication** : Acceptance Criteria facilitate better communication between developers, testers, and stakeholders. Everyone involved can refer to these criteria to understand the expected behavior of the system.
+### Example: Acceptance Criteria for Checkout Feature in Booking Management System
+**Feature: Checkout** : - Description: This feature allows users to review their booking details, select a payment method, and confirm their booking.
