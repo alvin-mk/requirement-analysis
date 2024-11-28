@@ -238,4 +238,4 @@ Requirement Analysis is a structured process that involves several key activitie
 - Improving communication between developers and stakeholders.
 
 ### Use Case Diagrams
-![Use Case Diagram for Hotel Booking System]](alx-booking-uc.png)
+![Use Case Diagram for Hotel Booking System](alx-booking-uc.png)
