@@ -239,3 +239,9 @@ Requirement Analysis is a structured process that involves several key activitie
 
 ### Use Case Diagrams
 ![Use Case Diagram for Hotel Booking System](alx-booking-uc.png)
+
+
+## Acceptance Criteria 
+Acceptance Criteria Defination
+-Acceptance Criteria are specific conditions that a feature or functionality must meet to be considered complete and successful.
+ They act as a bridge between the development team and stakeholders, ensuring everyone is aligned on what the final product should achieve
