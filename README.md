@@ -227,3 +227,6 @@ Requirement Analysis is a structured process that involves several key activitie
 - The system should be user-friendly and easy to navigate for both customers and hotel administrators.
 - The system should be scalable to accommodate a growing number of users and bookings
 - The system should be available 24/7 with minimum downtime
+
+
+## Use Case Diagrams
