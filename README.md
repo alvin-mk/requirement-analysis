@@ -262,4 +262,10 @@ Requirement Analysis is a structured process that involves several key activitie
 3. User can enter payment information securely
 - The payment gateway should be secure and use industry-standard encryption protocols.
 - The user interface should not display sensitive information like credit card numbers in plain text.
+4. User receives booking confirmation
+- Upon successful payment, the user should receive a confirmation email with booking details.
+- The system should also display a confirmation message on the user interface.
+5. Inventory is updated
+- The system should automatically update the hotel's room availability after successful booking.
+- This ensures that the booked room is no longer available for other users.
 
