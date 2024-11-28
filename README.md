@@ -249,7 +249,8 @@ Requirement Analysis is a structured process that involves several key activitie
 **Verifiable Conditions**: Each criterion should be defined in a way that allows for verification through testing. This helps confirm that the implemented functionality meets the user's needs.
 **Improved Communication** : Acceptance Criteria facilitate better communication between developers, testers, and stakeholders. Everyone involved can refer to these criteria to understand the expected behavior of the system.
 ### Example: Acceptance Criteria for Checkout Feature in Booking Management System
-**Feature: Checkout** : - Description : This feature allows users to review their booking details, select a payment method, and confirm their booking.
+**Feature: Checkout** :
+- Description : This feature allows users to review their booking details, select a payment method, and confirm their booking.
 **Acceptance Criteria** :
 1. User can review booking details:
 - The user interface should display the selected hotel, room type, dates, and total cost of the booking.
