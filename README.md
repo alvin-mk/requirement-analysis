@@ -2,7 +2,7 @@
 
 ## Requirement Analysis in Software Development
 - This repository serves as a comprehensive guide to the foundational phase of software development: Requirement Analysis. It documents the detailed process of analyzing and structuring requirements for a Booking Management System, emphasizing clarity, precision, and best practices. By exploring key concepts, activities, and visual representations, this repository highlights the critical role of Requirement Analysis in ensuring the success of software projects and aligning outcomes with user and business needs.
-
+ 
 ## What is Requirement Analysis?
 ### Definition and Overview
 Requirement Analysis is a systematic and critical process within the Software Development Lifecycle (SDLC) that serves as the foundational stage for successful software project delivery. It is the comprehensive approach of identifying, documenting, analyzing, and validating a proposed software system's specific needs, constraints, and objectives.
